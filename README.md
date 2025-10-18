@@ -1,4 +1,4 @@
-roject Overview
+Project Overview
 This lab is a two-part experiment blending statistical theory and applied data analysis using Python.
 
 Part A (Probability): Simulation and visualization of core Probability Distributions (Uniform, Normal, Bernoulli, Binomial, Poisson) to understand their mathematical behavior.
